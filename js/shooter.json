@@ -1,0 +1,175 @@
+{
+  "frames": {
+    "shooter11.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 51,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 62
+      }
+    },
+    "shooter12.png": {
+      "frame": {
+        "x": 54,
+        "y": 1,
+        "w": 52,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 62
+      }
+    },
+    "shooter13.png": {
+      "frame": {
+        "x": 108,
+        "y": 1,
+        "w": 51,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 62
+      }
+    },
+    "shooter14.png": {
+      "frame": {
+        "x": 1,
+        "y": 65,
+        "w": 51,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 62
+      }
+    },
+    "shooter15.png": {
+      "frame": {
+        "x": 54,
+        "y": 65,
+        "w": 51,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 62
+      }
+    },
+    "shooter16.png": {
+      "frame": {
+        "x": 107,
+        "y": 65,
+        "w": 51,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 62
+      }
+    },
+    "shooter17.png": {
+      "frame": {
+        "x": 161,
+        "y": 1,
+        "w": 51,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 62
+      }
+    },
+    "shooter18.png": {
+      "frame": {
+        "x": 160,
+        "y": 65,
+        "w": 51,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 62
+      }
+    }
+  },
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "shooter.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 213,
+      "h": 128
+    },
+    "scale": "1"
+  }
+}
